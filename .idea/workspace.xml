@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="VINS" targetName="VINS" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2950b170-3161-47af-8591-75df4e8ff031" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-131490902">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="66" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="5" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="3" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.20" value="3" />
+          <entry key="project.open.time.21" value="6" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="5" />
+          <entry key="project.open.time.24" value="5" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="6" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="2" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.47" value="2" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.opened" value="72" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Makefile" value="1" />
+          <entry key="PointStamped" value="1" />
+          <entry key="VINS (disassembly)" value="1" />
+          <entry key="cc" value="3" />
+          <entry key="cpp" value="60" />
+          <entry key="h" value="100" />
+          <entry key="hpp" value="17" />
+          <entry key="log" value="1" />
+          <entry key="txt" value="14" />
+          <entry key="yaml" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="14" />
+          <entry key="Disassembly" value="1" />
+          <entry key="ObjectiveC" value="181" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="YAML" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cc" value="3" />
+          <entry key="cpp" value="1704" />
+          <entry key="h" value="647" />
+          <entry key="txt" value="91" />
+          <entry key="yaml" value="45" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="91" />
+          <entry key="ObjectiveC" value="2354" />
+          <entry key="YAML" value="45" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.cidr.testingFrameworks.usages" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="VINS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/estimator.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6144">
+              <caret line="256" column="103" selection-start-line="256" selection-start-column="103" selection-end-line="256" selection-end-column="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/initial/initial_sfm.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/initial/initial_sfm.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1776">
+              <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15696">
+              <caret line="654" selection-start-line="654" selection-end-line="654" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/feature_tracker.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2832">
+              <caret line="118" column="54" selection-start-line="118" selection-start-column="54" selection-end-line="118" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/factor/imu_factor.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1704">
+              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/factor/projection_factor.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/factor/projection_factor.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3048">
+              <caret line="127" column="28" selection-start-line="127" selection-start-column="23" selection-end-line="127" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>STEREO_TRACK</find>
+      <find>ros</find>
+      <find>feature_callback</find>
+      <find>last_image_time</find>
+      <find>WINDOW_SIZE_FEATURE_TRACKER</find>
+      <find>img_callback</find>
+      <find>FOCAL_LENGTH</find>
+      <find>WINDOW_SIZE</find>
+      <find>IMU_TOPIC</find>
+      <find>m_k1</find>
+      <find>processing</find>
+      <find>m_loop_drift</find>
+      <find>m_buf</find>
+      <find>con</find>
+      <find>Iterations</find>
+      <find>feature_buf</find>
+      <find>predict</find>
+      <find>strImagesFileNames</find>
+      <find>LoadImages</find>
+      <find>global SFM failed</find>
+      <find>pubOdometry</find>
+      <find>global SFM failed!</find>
+      <find>initialStructure</find>
+      <find>solver_flag</find>
+      <find>tmp_Ba</find>
+      <find>sum_dt</find>
+      <find>dp_dba</find>
+      <find>dp_dbg</find>
+      <find>dq_dbg</find>
+      <find>ThreadsConstructA</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/factor/integration_base.h" />
+        <option value="$PROJECT_DIR$/factor/marginalization_factor.h" />
+        <option value="$PROJECT_DIR$/factor/pose_local_parameterization.cpp" />
+        <option value="$PROJECT_DIR$/factor/marginalization_factor.cpp" />
+        <option value="$PROJECT_DIR$/factor/pose_local_parameterization.h" />
+        <option value="$PROJECT_DIR$/factor/projection_factor.h" />
+        <option value="$PROJECT_DIR$/factor/projection_factor.cpp" />
+        <option value="$PROJECT_DIR$/factor/projection_td_factor.h" />
+        <option value="$PROJECT_DIR$/factor/projection_td_factor.cpp" />
+        <option value="$PROJECT_DIR$/initial/initial_aligment.cpp" />
+        <option value="$PROJECT_DIR$/initial/initial_ex_rotation.cpp" />
+        <option value="$PROJECT_DIR$/initial/initial_sfm.h" />
+        <option value="$PROJECT_DIR$/initial/solve_5pts.cpp" />
+        <option value="$PROJECT_DIR$/utility/tic_toc.h" />
+        <option value="$PROJECT_DIR$/utility/utility.h" />
+        <option value="$PROJECT_DIR$/utility/utility.cpp" />
+        <option value="$PROJECT_DIR$/initial/initial_alignment.h" />
+        <option value="$PROJECT_DIR$/camera_models/Camera.h" />
+        <option value="$PROJECT_DIR$/camera_models/CameraFactory.h" />
+        <option value="$PROJECT_DIR$/feature_manager.h" />
+        <option value="$PROJECT_DIR$/estimator.h" />
+        <option value="$PROJECT_DIR$/initial/solve_5pts.h" />
+        <option value="$PROJECT_DIR$/initial/initial_ex_rotation.h" />
+        <option value="$PROJECT_DIR$/feature_tracker.h" />
+        <option value="$PROJECT_DIR$/camera_model/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/camera_model/srcc/camera_models/CataCamera.cc" />
+        <option value="$PROJECT_DIR$/parameters.h" />
+        <option value="$PROJECT_DIR$/config/euroc/euroc_config.yaml" />
+        <option value="$PROJECT_DIR$/parameters.cpp" />
+        <option value="$PROJECT_DIR$/feature_manager.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/initial/initial_sfm.cpp" />
+        <option value="$PROJECT_DIR$/factor/gps_factor.h" />
+        <option value="$PROJECT_DIR$/estimator.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/factor/imu_factor.h" />
+        <option value="$PROJECT_DIR$/feature_tracker.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2167" />
+    <option name="y" value="320" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VINS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VINS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VINS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VINS" type="462c0819:PsiDirectoryNode" />
+              <item name="factor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VINS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mmVINS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.VINS">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VINS" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="VINS" TARGET_NAME="VINS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="VINS" RUN_TARGET_NAME="VINS">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.VINS" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2950b170-3161-47af-8591-75df4e8ff031" name="Default Changelist" comment="" />
+      <created>1540903364982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540903364982</updated>
+      <workItem from="1540903367215" duration="675000" />
+      <workItem from="1540989134125" duration="4247000" />
+      <workItem from="1541068818384" duration="2313000" />
+      <workItem from="1541071883884" duration="938000" />
+      <workItem from="1541127445837" duration="1535000" />
+      <workItem from="1541382891349" duration="3008000" />
+      <workItem from="1541596521690" duration="2652000" />
+      <workItem from="1541760242414" duration="4650000" />
+      <workItem from="1541766130469" duration="592000" />
+      <workItem from="1541934434252" duration="3883000" />
+      <workItem from="1541985897250" duration="3633000" />
+      <workItem from="1542027238610" duration="2946000" />
+      <workItem from="1542159101381" duration="1618000" />
+      <workItem from="1542203013367" duration="812000" />
+      <workItem from="1542204250736" duration="687000" />
+      <workItem from="1542246924315" duration="4809000" />
+      <workItem from="1542261055925" duration="6538000" />
+      <workItem from="1542287789787" duration="2405000" />
+      <workItem from="1542343778163" duration="597000" />
+      <workItem from="1542355285050" duration="8249000" />
+      <workItem from="1542462197410" duration="554000" />
+      <workItem from="1542676858320" duration="1328000" />
+      <workItem from="1542874772601" duration="4233000" />
+      <workItem from="1542941727506" duration="40000" />
+      <workItem from="1542941838659" duration="48000" />
+      <workItem from="1542941908964" duration="133000" />
+      <workItem from="1542942068511" duration="1966000" />
+      <workItem from="1542959846845" duration="12573000" />
+      <workItem from="1543062904668" duration="1989000" />
+      <workItem from="1543066184778" duration="1366000" />
+      <workItem from="1543128789490" duration="4153000" />
+      <workItem from="1543133890055" duration="2165000" />
+      <workItem from="1543194061010" duration="2060000" />
+      <workItem from="1543200944089" duration="305000" />
+      <workItem from="1543201550915" duration="7390000" />
+      <workItem from="1543217575837" duration="2925000" />
+      <workItem from="1543281673595" duration="1497000" />
+      <workItem from="1543317101185" duration="968000" />
+      <workItem from="1543372118955" duration="3147000" />
+      <workItem from="1543405580098" duration="1690000" />
+      <workItem from="1543575578053" duration="5137000" />
+      <workItem from="1543581923752" duration="99000" />
+      <workItem from="1543648235785" duration="1076000" />
+      <workItem from="1543739323915" duration="3147000" />
+      <workItem from="1543754703950" duration="808000" />
+      <workItem from="1543755685311" duration="623000" />
+      <workItem from="1543756974701" duration="2235000" />
+      <workItem from="1543802963055" duration="121000" />
+      <workItem from="1544150465080" duration="2361000" />
+      <workItem from="1544179767858" duration="266000" />
+      <workItem from="1544182355354" duration="2293000" />
+      <workItem from="1544258177828" duration="626000" />
+      <workItem from="1544280240098" duration="938000" />
+      <workItem from="1544321809304" duration="6114000" />
+      <workItem from="1544342368751" duration="4324000" />
+      <workItem from="1544431916271" duration="800000" />
+      <workItem from="1544492117676" duration="16000" />
+      <workItem from="1544844732713" duration="1682000" />
+      <workItem from="1545029335097" duration="6017000" />
+      <workItem from="1545051285066" duration="3616000" />
+      <workItem from="1545114991146" duration="4667000" />
+      <workItem from="1545214001941" duration="1359000" />
+      <workItem from="1545272331917" duration="116000" />
+      <workItem from="1546910125645" duration="1274000" />
+      <workItem from="1546913901945" duration="4972000" />
+      <workItem from="1547000900619" duration="1248000" />
+      <workItem from="1547005212130" duration="2866000" />
+      <workItem from="1547032902243" duration="1620000" />
+      <workItem from="1547095003408" duration="399000" />
+      <workItem from="1547109472004" duration="2676000" />
+      <workItem from="1547124248833" duration="1803000" />
+      <workItem from="1547127121590" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="172692000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1984" y="-4" width="1857" height="1085" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49526387" visible="true" weight="0.1793027" />
+      <window_info id="Structure" order="1" sideWeight="0.5047361" side_tool="true" weight="0.11912393" />
+      <window_info id="Favorites" order="2" sideWeight="0.5017857" side_tool="true" weight="0.14797008" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25759163" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21570681" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946582" weight="0.30669546" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.36649215" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005342" side_tool="true" weight="0.4356021" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32879582" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.48900524" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>654</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/estimator.cpp</url>
+          <line>268</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/initial/solve_5pts.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/initial/initial_ex_rotation.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_model/include/camodocal/camera_models/CameraFactory.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/ios_base.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_model/srcc/camera_models/CataCamera.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="47" selection-start-column="47" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_model/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/smart_ptr/detail/sp_counted_impl.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/smart_ptr/detail/shared_count.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="446" selection-start-line="446" selection-end-line="446" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_construct.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/core/checked_delete.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msgg/Imu.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_model/srcc/camera_models/CameraFactory.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2136">
+          <caret line="89" column="15" selection-start-line="89" selection-start-column="15" selection-end-line="89" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/smart_ptr/shared_ptr.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="649" selection-start-line="649" selection-end-line="649" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_tracker.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utility/utility.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2712">
+          <caret line="116" column="23" lean-forward="true" selection-start-line="116" selection-start-column="23" selection-end-line="116" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factor/marginalization_factor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1440" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/eigen3/Eigen/src/Core/GeneralProduct.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="409" selection-start-line="409" selection-end-line="409" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="378" column="6" selection-start-line="378" selection-start-column="6" selection-end-line="378" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/euroc/euroc_config.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="70" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="794" selection-start-line="794" selection-end-line="794" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parameters.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-961">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_model/build/CMakeFiles/CMakeOutput.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="62" column="502" selection-start-line="62" selection-start-column="502" selection-end-line="62" selection-end-column="502" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factor/marginalization_factor.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5544">
+          <caret line="231" selection-start-line="231" selection-end-line="231" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_manager.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parameters.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="492" selection-start-line="492" selection-end-line="492" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/eigen3/Eigen/src/Core/MatrixBase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="464" selection-start-line="464" selection-end-line="464" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/eigen3/Eigen/src/Core/util/XprHelper.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="456" selection-start-line="456" selection-end-line="456" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/eigen3/Eigen/src/Core/EigenBase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/eigen3/Eigen/src/Core/DenseBase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="591" selection-start-line="591" selection-end-line="591" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/eigen3/Eigen/src/Core/DenseStorage.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/eigen3/Eigen/src/Core/Matrix.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="370" selection-start-line="370" selection-end-line="370" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/calib3d.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="306" selection-start-line="306" selection-end-line="306" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factor/integration_base.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="159" column="22" selection-start-line="159" selection-start-column="22" selection-end-line="159" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_manager.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4848">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estimator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/initial/initial_alignment.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/initial/initial_aligment.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="839">
+          <caret line="212" selection-start-line="212" selection-end-line="212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factor/gps_factor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_algo.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2184">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estimator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6144">
+          <caret line="256" column="103" selection-start-line="256" selection-start-column="103" selection-end-line="256" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/initial/initial_sfm.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1776">
+          <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15696">
+          <caret line="654" selection-start-line="654" selection-end-line="654" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_tracker.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2832">
+          <caret line="118" column="54" selection-start-line="118" selection-start-column="54" selection-end-line="118" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factor/imu_factor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1704">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factor/projection_factor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factor/projection_factor.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3048">
+          <caret line="127" column="28" selection-start-line="127" selection-start-column="23" selection-end-line="127" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/initial/initial_sfm.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+This porject is a VIO based VINS-MONO whithout ROS.Meanwhile, I add a factor about position (GPS) to optimization preventing error divergence.
+It's a CMAKE project,and you can debug it in Clion.
+
+I am a noob.Thank you.
