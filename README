@@ -2,3 +2,7 @@ This porject is a VIO based VINS-MONO whithout ROS.Meanwhile, I add a factor abo
 It's a CMAKE project,and you can debug it in Clion.
 
 I am a noob.Thank you.
+
+the database is euroc http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
+
+if you want to run,you need to modify the config file.
