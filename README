@@ -8,3 +8,6 @@ the database is euroc http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisua
 if you want to run,you need to modify the config file.
 
 if you have some questions please email me grn213331@163.com
+
+
+the  gps2.txt is the needed file ，but the program usually do not have gps 。
